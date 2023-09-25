@@ -1,0 +1,34 @@
+{
+  "name": "csc317-code-acharlesrhymes",
+  "version": "1.0.0",
+  "description": "## Purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csc317-SFSU-Souza/csc317-code-acharlesrhymes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csc317-SFSU-Souza/csc317-code-acharlesrhymes/issues"
+  },
+  "homepage": "https://github.com/csc317-SFSU-Souza/csc317-code-acharlesrhymes#readme",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-mysql-session": "^3.0.0",
+    "express-session": "^1.17.3",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.3.2",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.4",
+    "react-dom": "^18.2.0",
+    "validator": "^13.9.0"
+  }
+}
